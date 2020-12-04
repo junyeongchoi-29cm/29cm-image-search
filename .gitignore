@@ -1,4 +1,7 @@
-static/*
+# Exclude jpg file and features
+/static/feature/*.jpg
+/static/img/*.jpg
+/static/uploaded/*.jpg
 .idea
 
 
